@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Practice Samples</string>
+    <string name="hello_clickable_fragment">Hello! I\'m a clickable fragment.</string>
+    <string name="click_message">You\'re clicking me!</string>
 </resources>
