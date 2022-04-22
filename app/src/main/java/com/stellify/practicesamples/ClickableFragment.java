@@ -20,7 +20,6 @@ public class ClickableFragment extends Fragment {
                                      getResources().getString(R.string.click_message),
                                      Toast.LENGTH_SHORT);
 
-        clickableView.setClickable(true);
         clickableView.setOnClickListener(v -> toast.show());
 
         return clickableView;
